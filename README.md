@@ -1,4 +1,4 @@
-# hellovue
+# HelloVue
 
 ## Project setup
 ```
